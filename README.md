@@ -5,10 +5,8 @@
 
 
 Frontend:
-  1) ReactJS
-  2) JavaScript
-  3) Vite
-  4) TailwindCSS
+  1) JavaScript
+  2) TailwindCSS
 
 
 
