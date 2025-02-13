@@ -7,7 +7,7 @@
 Frontend:
   1) ReactJS
   2) JavaScript
-  3) vite
+  3) Vite
   4) TailwindCSS
 
 
